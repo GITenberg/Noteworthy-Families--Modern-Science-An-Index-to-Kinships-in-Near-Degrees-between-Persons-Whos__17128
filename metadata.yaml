@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4029
     wikipedia: http://en.wikipedia.org/wiki/Francis_Galton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17128#Noteworthy-Families--Modern-Science-An-Index-to-Kinships-in-Near-Degrees-between-Persons-Whos_
 gutenberg_issued: '2005-11-21'
 gutenberg_type: Text
 identifiers:
